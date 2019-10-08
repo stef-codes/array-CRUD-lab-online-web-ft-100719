@@ -3,7 +3,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  
+  la_rap = ["Dr.Dre", "Nip", "K.Dot", "Snoop"]
 end
 
 def add_element_to_end_of_array(array, element)
